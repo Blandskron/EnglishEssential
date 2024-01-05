@@ -1,3 +1,7 @@
+header {
+    background-color: #225d99;
+}
+
 /* Estilos para el botón de WhatsApp */
 .whatsapp-button {
     position: fixed;
