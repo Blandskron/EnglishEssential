@@ -31,8 +31,8 @@ a:hover {
 /* Estilos para el botón de WhatsApp */
 .whatsapp-button {
     position: fixed;
-    bottom: 25px; /* Ajusta la posición vertical según sea necesario */
-    right: 25px; /* Ajusta la posición horizontal según sea necesario */
+    bottom: 30px; /* Ajusta la posición vertical según sea necesario */
+    right: 30px; /* Ajusta la posición horizontal según sea necesario */
     background-color: #25d366; /* Color de fondo de WhatsApp */
     color: #fff; /* Color del texto */
     padding: 10px;
