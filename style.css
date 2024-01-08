@@ -1,12 +1,38 @@
+body {
+    background-color: #f0f0f0;
+}
+
+footer {
+    background-color: #e6e6e6;
+}
+
 header {
     background-color: #225d99;
+}
+
+a {
+    transition: transform 0.3s ease; /* Transición suave para la transformación */
+}
+
+/* Estilos para el hover en los enlaces */
+a:hover {
+    transform: scale(1.1); /* Aumenta el tamaño del enlace en un 10% */
+}
+
+.whatsapp {
+    margin-left: 5px;
+    color: black;
+    padding: 7px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: #25d366;
 }
 
 /* Estilos para el botón de WhatsApp */
 .whatsapp-button {
     position: fixed;
-    bottom: 20px; /* Ajusta la posición vertical según sea necesario */
-    right: 20px; /* Ajusta la posición horizontal según sea necesario */
+    bottom: 25px; /* Ajusta la posición vertical según sea necesario */
+    right: 25px; /* Ajusta la posición horizontal según sea necesario */
     background-color: #25d366; /* Color de fondo de WhatsApp */
     color: #fff; /* Color del texto */
     padding: 10px;
